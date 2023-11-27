@@ -1,0 +1,40 @@
+body{
+    background-color: white;
+}
+
+#image{
+ display: block;
+ max-width: 100%;
+ height: auto;   
+}
+
+#title{
+    text-align: center;
+}
+#description{
+    text-align: center;
+}
+#description2{
+    text-align: center;
+    }
+
+#description3{
+    align-items: center;
+    max-width: 90%;
+    line-height: 1.2rem;
+    text-align: center;
+    margin: auto;
+}
+
+#img-div{
+    background-color: white;
+    padding: 20px;
+    display: block;
+}
+#img-caption{
+    text-align: center;
+    font-size: 30px;
+}
+#h5{
+    text-align: left;
+}
